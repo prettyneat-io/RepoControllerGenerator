@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKlG64IBews=",
+  "success": true,
+  "projectFilePath": "/Users/kris/Development/CodeGenerator/CodeGenerator/CodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/kris/.nuget/packages/microsoft.codeanalysis.analyzers/3.11.0/microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "/Users/kris/.nuget/packages/microsoft.codeanalysis.common/4.11.0/microsoft.codeanalysis.common.4.11.0.nupkg.sha512",
+    "/Users/kris/.nuget/packages/microsoft.codeanalysis.csharp/4.11.0/microsoft.codeanalysis.csharp.4.11.0.nupkg.sha512",
+    "/Users/kris/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/kris/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
